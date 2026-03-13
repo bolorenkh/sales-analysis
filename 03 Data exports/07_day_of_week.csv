@@ -1,0 +1,7 @@
+day_of_week,day_number,num_transactions,num_orders,total_revenue
+Sunday,0,62773,2169,792514.22
+Monday,1,64893,2863,1367146.41
+Tuesday,2,66473,3184,1700634.63
+Wednesday,3,68885,3455,1588336.17
+Thursday,4,80035,4032,1976859.07
+Friday,5,54825,2829,1485917.4

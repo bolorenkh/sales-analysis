@@ -1,0 +1,4 @@
+customer_segment,num_customers,percentage_of_customers,avg_customer_value,segment_total_revenue,avg_purchases_per_customer
+VIP,372,8.58,12193.03,4535807.39,19.94
+Occasional,3310,76.3,794.34,2629275.87,2.03
+Regular,656,15.12,2662.08,1746324.64,6.68
